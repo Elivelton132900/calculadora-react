@@ -1,0 +1,18 @@
+.telaCalculadora {
+    background-color: var(--screenBackground);
+    height: 12vh;
+    margin-top: 2vw;
+    border-radius: 15px;
+    display: flex;
+    align-items: flex-end;
+    justify-content:flex-end;
+    padding: 0px 20px 0px;
+    max-width: 41vw;
+    min-width: none;
+    overflow-x: hidden;
+}
+
+.telaCalculadora .numeros {
+    font-size: 40px;
+    margin-bottom: 5px;
+}
